@@ -1,2 +1,3 @@
-# TinyBoard
-Development of an Atmel AVR based ATTiny85 development board.
+TinyBoard v1.0
+
+Last modified - 05102019
